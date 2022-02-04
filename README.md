@@ -1,4 +1,4 @@
-![💻Linkedin_Cone](https://user-images.githubusercontent.com/60575576/152459551-6d9bd376-f9fe-41a5-9e0e-53335ad6a1cc.png)
+![💻Linkedin_Cone](https://user-images.githubusercontent.com/60575576/152459913-80f97a4b-6b04-4bb0-8679-427fc8685a0d.png)
 
 **Linkedin Clone** is my third project which is a clone of the *Linkedin's* homepage. 
 I made this project with **Next.js** and **MongoDB**.
